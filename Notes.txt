@@ -1,0 +1,15 @@
+install in terminal:
+
+express
+mongodb
+mongoose
+nodemon
+
+POST man
+
+run node mon => nodemon server
+
+
+npm install cors
+
+linux semi code
